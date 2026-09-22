@@ -1,0 +1,24 @@
+.colearn-logo {
+  display: block;
+  width: 154px;
+  height: 30px;
+  object-fit: contain;
+}
+
+.footer-meta {
+  align-items: flex-end;
+}
+
+.skon-logo {
+  display: block;
+  width: 79px;
+  height: 32px;
+  margin-top: .45rem;
+  object-fit: contain;
+}
+
+@media (max-width: 650px) {
+  .footer-meta {
+    align-items: flex-start;
+  }
+}
